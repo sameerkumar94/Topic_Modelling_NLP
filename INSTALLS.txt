@@ -1,0 +1,19 @@
+Author :: Sameer Kumar
+
+Packages installed for execution of the modelling program:
+
+1. NLTK
+2. GENSIM
+3. PANDAS
+4. NUMPY
+5. MATPLOTLIB.PYPLOT
+6. STRING
+
+Author 2 :: Parastou Yaghami
+
+Packages installed for execution of R script:
+
+1. NLP
+2. TM
+3. STINGER
+4. WORDCLOUD

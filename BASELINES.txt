@@ -1,0 +1,8 @@
+Author :: Parastou Yaghmai
+
+For Accuracy Acquisition, we need to compare the auto-generated and manual/human annotated
+data set which could be considered as the baseline model for the project.
+
+We acheived 85% accuracy when compared Approx. 300-400 tweets from the 1 Million dataset with few incorrect possibilities.
+
+The file is provided with human annotation from 3 different human analysis. 

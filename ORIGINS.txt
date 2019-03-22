@@ -1,0 +1,9 @@
+Author :: Ekaagar Singh Hara
+
+Origin of Dataset:
+
+The dataset is obtained from kaggle and consists of 3 million tweets from which 1 million has been utilized for modelling.
+
+URL : https://www.kaggle.com/fivethirtyeight/russian-troll-tweets/version/1/
+
+
